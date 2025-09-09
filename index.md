@@ -29,3 +29,4 @@ I reflect myself three times per day:
 - [ ] Am I trustworthy when interacting with friends?
 - [ ] Have I review what I've learnt?
 Maybe all not.
+
